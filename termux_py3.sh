@@ -1,0 +1,1 @@
+chmod +x lazymux.py && apt install python && python lazymux.py

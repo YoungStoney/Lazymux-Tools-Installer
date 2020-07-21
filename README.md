@@ -3,7 +3,7 @@ Lazymux tools installer is very easy to use, only provided for lazy termux users
 **NOTE: Am not Responsible of bad use of this project.**
 
 ## Screenshot
-<img src="core/lazymux2.png">
+<img src="lazymux2.png">
 
 ### Requirements
 • Linux environment<br>
@@ -12,7 +12,7 @@ Lazymux tools installer is very easy to use, only provided for lazy termux users
 
 #### Installation and Using Lazymux
 ```shell
-git clone https://github.com/Gameye98/Lazymux
+git clone https://github.com/YoungStoney/Lazymux-Tools-Installer
  
 cd Lazymux
 
